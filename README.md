@@ -35,9 +35,11 @@ The application demonstrates how to build a small but realistic domain (restaura
  ![img_7.png](img_7.png)
 
 * Creating a new order
+
   ![img_8.png](img_8.png)
 
 * Adding a meal with toppings
+
   ![img_9.png](img_9.png)
   ![img_10.png](img_10.png)
 * Placing order and notifications
