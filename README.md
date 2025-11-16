@@ -1,6 +1,5 @@
 # Restaurant Ordering System
 
-Console-based restaurant ordering system implemented in Java 17 as a final project for the **Software Design Patterns** course.
 
 The application demonstrates how to build a small but realistic domain (restaurant orders, menu, discounts, notifications) using multiple classic design patterns in a clean and extensible way.
 
