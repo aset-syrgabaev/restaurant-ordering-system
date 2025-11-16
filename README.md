@@ -43,12 +43,15 @@ The application demonstrates how to build a small but realistic domain (restaura
   ![img_9.png](img_9.png)
   ![img_10.png](img_10.png)
 * Placing order and notifications
+
   ![img_11.png](img_11.png)
 
 * Order summary with discount
+
   ![img_12.png](img_12.png)
 
 * List of all orders
+
   ![img_13.png](img_13.png)
 
 ---
