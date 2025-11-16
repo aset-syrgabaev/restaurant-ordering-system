@@ -129,9 +129,7 @@ restaurant-ordering-system/
 │   app-summary.png
 │   app-list-orders.png
 ├─ src/
-│  └─ main/
-│     └─ java/
-│        └─ restaurant/
+│  └─ restaurant/
 │           ├─ app/
 │           │   └─ Main.java
 │           ├─ facade/
