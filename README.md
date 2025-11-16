@@ -32,7 +32,8 @@ The application demonstrates how to build a small but realistic domain (restaura
 > Console screenshots:
 
 * Main menu
-  ![img_7.png](img_7.png)
+
+ ![img_7.png](img_7.png)
 
 * Creating a new order
   ![img_8.png](img_8.png)
